@@ -11,3 +11,4 @@ Details have been explained in code itself.
 
 
 
+![Final Output plot](sampleoutput.jpg)
